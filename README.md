@@ -23,7 +23,7 @@ User inputs are processed through an AI text generation module, and the generate
 - Story history with search and filters
 - Clean and modern UI
 
-## Live Demo
+## Deployed Application Link
 https://cultural-weaver-8686011d.base44.app
 
 ## AI Usage Disclosure

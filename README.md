@@ -29,7 +29,11 @@ https://cultural-weaver-8686011d.base44.app
 ## AI Usage Disclosure
 AI tools and platforms were used for application development and text generation. All AI usage is disclosed and follows academic integrity guidelines.
 
-## Future Scope
-- Multilingual support
-- Audio and video storytelling
-- Integration with external LLM APIs
+## Conclusion & Future Scope
+Conclusion
+
+This project demonstrates the effective use of generative AI for creating culturally relevant stories based on user input. The system successfully converts simple inputs into meaningful narrative content, showing how AI can be applied to creative and educational domains. Overall, the project meets its objective of making cultural storytelling more accessible through technology.
+
+Future Scope
+
+The system can be enhanced by adding support for multiple languages and regions to improve inclusivity. Future improvements may also include better personalization, integration of audio or visual storytelling features, and the use of more advanced AI models to improve story quality and cultural accuracy.

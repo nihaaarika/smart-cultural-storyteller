@@ -1,4 +1,4 @@
-Screenshots of the Smart Cultural Storyteller application.
+Screenshots of the Cultural Storyteller application.
 
 <img width="950" height="440" alt="Screenshot 2026-01-16 234748" src="https://github.com/user-attachments/assets/ee8ab561-78db-43b1-ad7c-8b2a81835fda" />
 <img width="710" height="437" alt="Screenshot 2026-01-16 234929" src="https://github.com/user-attachments/assets/30af66d1-bee7-4663-b10b-cb6a96bb7512" />
